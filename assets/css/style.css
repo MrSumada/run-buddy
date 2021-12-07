@@ -111,7 +111,7 @@ section {
  }
  /* Add some horizontal space from the label, to not misinterpret the selection */
  .hero-form label {
-     margin 0 5px;
+     margin: 0 5px;
  }
 
  .hero-form button {
