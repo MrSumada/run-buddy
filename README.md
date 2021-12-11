@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Run Buddy, Inc
+=======
+# Run Buddy Inc.
+>>>>>>> 17f99f5 (local merge conflict created)
 
 ## Purpose
 A website that offers fitness training services.
