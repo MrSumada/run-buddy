@@ -5,10 +5,10 @@ A website that offers fitness training services.
 
 ## Built With
 * HTML
-*CSS
+* CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://mrsumada.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Adam Payne
